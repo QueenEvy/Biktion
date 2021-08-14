@@ -34,17 +34,21 @@
             		 <!-- ============================================================= CONTACT TIMING============================================================= -->
 <div class="contact-timing">
 	<div class="module-heading">
-		<h4 class="module-title">Horario de atención</h4>
+		<h4 class="module-title">Ayuda</h4>
 	</div>
 
 	<div class="module-body outer-top-xs">
 		<div class="table-responsive">
 			<table class="table">
-				<tbody>
+                <ul class="style2">
+                    <li><a href="faqs.php">FQAs</a></li>
+                    <li><a href="tallas.php">Guía de Tallas</a></li>
+                </ul>
+				<!-- <tbody>
 					<tr><td>Lunes-Viernes:</td><td class="pull-right">08:00 a 18:00 hrs</td></tr>
 					<tr><td>Sábados:</td><td class="pull-right">09:00 a 20:00</td></tr>
 					<tr><td>Domingos:</td><td class="pull-right">10:00 a 20:00</td></tr>
-				</tbody>
+				</tbody> -->
 			</table>
 		</div>
 	</div>
